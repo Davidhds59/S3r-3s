@@ -1,6 +1,5 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="DROPBOX" pltv-description="Reproductor Simple IPTV - PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Reproductor Simple IPTV" pltv-site="https://playeriptv.com/app"
 
 #EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="DROPBOX", PlayList Exportada por la aplicación Reproductor Simple IPTV - Descarga en PlayStore!
 https://playeriptv.com/app
