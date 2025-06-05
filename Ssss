@@ -1,5 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://zonaaps.com/wp-content/uploads/2025/05/efNhiZPk71FTYJ30dBkWMfc939D-200x300.jpg.webp" group-title="Estrenos",Karate Kid 2: Leyendas
+https://1a-1791.com/video/fww1/65/s8/2/p/9/3/P/p93Py.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1393562624-1393615279
+#EXTINF:-1 tvg-logo="https://zonaaps.com/wp-content/uploads/2025/06/kYeTcmPmuMvBgmwOdOtR5fUwRuH-200x300.jpg" group-title="Estrenos",Fear Street
+https://1a-1791.com/video/fww1/c4/s8/2/d/-/z/P/d-zPy.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1442300928-1442355534
+#EXTINF:-1 tvg-logo="https://zonaaps.com/wp-content/uploads/2025/05/zdClwqpYQXBSCGGDMdtvsuggwec-200x300.jpg.webp" group-title="Estrenos",Pecadores
+https://hugh.cdn.rumble.cloud/video/fww1/24/s8/2/3/r/d/P/3rdPy.aaa.mp4
+#EXTINF:-1 tvg-logo="https://zonaaps.com/wp-content/uploads/2025/05/2DYgEfgv1bOmgibE1kyPBmzxaf2-200x300.jpg" group-title="Estrenos",Norbert
+https://1a-1791.com/video/fww1/00/s8/2/D/a/C/O/DaCOy.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1162581504-1162625399
+#EXTINF:-1 tvg-logo="https://zonaaps.com/wp-content/uploads/2025/05/haOjJGUV00dKlZaJWgjM1UD1cJV-200x300.jpg.webp" group-title="Estrenos",Misión: Imposible – La sentencia
+https://hugh.cdn.rumble.cloud/video/fww1/93/s8/2/D/I/P/N/DIPNy.aaa.mp4
+#EXTINF:-1 tvg-logo="https://zonaaps.com/wp-content/uploads/2025/05/COzWKbKbHGsOM7HjWuYrUrlQ8r-200x300.jpg.webp" group-title="Estrenos",Stitch 2025 – Lilo y Stitch
+https://1a-1791.com/video/fww1/73/s8/2/Z/6/8/N/Z68Ny.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1602110464-1602171155
+#EXTINF:-1 tvg-logo="https://zonaaps.com/wp-content/uploads/2025/05/Des.F.6.webp" group-title="Estrenos",Destino final 6: Lazos de sangre
+https://hugh.cdn.rumble.cloud/video/fww1/49/s8/2/P/n/5/K/Pn5Ky.aaa.mp4
+#EXTINF:-1 tvg-logo="https://zonaaps.com/wp-content/uploads/2025/03/uxy6FIFl3hccD2eqGe75WkPLv5M-200x300.jpg" group-title="Estrenos",Blanca Nieves y los siete enanitos
+https://1a-1791.com/video/fww1/d4/s8/2/3/s/N/J/3sNJy.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1743308800-1743374984
+#EXTINF:-1 tvg-logo="https://zonaaps.com/wp-content/uploads/2025/05/oogmlZekRCHP0JDhHKDZIyDIfpP-200x300.jpg.webp" group-title="Estrenos",Mala Influencia
+https://1a-1791.com/video/fww1/e8/s8/2/v/q/7/I/vq7Iy.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1730138112-1730203874
+#EXTINF:-1 tvg-logo="https://zonaaps.com/wp-content/uploads/2025/05/zLbhKNJGDSfBCXFNtypM7ZuPTaW-200x300.jpg.webp" group-title="Estrenos",Thunderbolts
+https://1a-1791.com/video/fww1/05/s8/2/V/W/L/I/VWLIy.aaa.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v0Q2uYARIqui1sEBF0bCLJaliDI.jpg" group-title="Sin categoría", deadpool y wolverine
